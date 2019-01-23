@@ -1,7 +1,4 @@
  Hello cc
-<<<<<<< HEAD
- Creating a new branch is quick & simple.
-=======
  learning git 
  Creating a new branch is quick AND simple.
->>>>>>> featurel
+
