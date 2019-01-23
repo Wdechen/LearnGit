@@ -1,4 +1,5 @@
- Hello cc
+ Hello cc 
  learning git int 2019.01.23
- Creating a new branch is quick and simple.
+Creating a new branch is quick and simple.
+this time is 21.34
 
